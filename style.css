@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+h1{
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    color: darkorange;
+    margin-bottom: 20 px;
+}
+p{
+    margin: 20px;
+    text-align: center;
+    color: darkorange;
+    font-weight: 400;
+    font-size: 40px;
+}
